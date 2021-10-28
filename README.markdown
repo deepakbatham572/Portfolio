@@ -1,5 +1,5 @@
 # Portofolio
 
-This is portfolio built using HTML,CSS and javascript.
+This is an responsive portfolio built using HTML,CSS and javascript for certification course.
 
 
